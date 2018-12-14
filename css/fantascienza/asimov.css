@@ -1,0 +1,55 @@
+.titolo_asimov{
+  width: 100%;
+  height: auto;
+  flex: 1 1 auto;
+  font-size: 1.5rem;
+  font-family: 'philosopherregular';
+  font-weight: bold;
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  border-top: 3px solid #ad343e; /*-- red--*/
+  border-bottom: 3px solid #ad343e; /*-- red--*/
+  background-color: #f2af29; /*--arancione--*/
+}
+
+.sottotitolo_asimov{
+  width: 100%;
+  height: auto;
+  flex: 1 1 auto;
+  font-size: 1.3rem;
+  font-family: 'philosopherregular';
+  text-align: center;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  border-top: 3px solid #ad343e; /*-- red--*/
+  border-bottom: 3px solid #ad343e; /*-- red--*/
+}
+.autori_saghe{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: auto;
+}
+.figure_asimov{
+  width: 100%;
+  padding-top: 0.5rem;
+  margin: 0;
+}
+.contenuto_asimov{
+  width: 95%;
+  max-width: 100%;
+  height: auto;
+  font-family: 'philosopherregular';
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  font-size: 1rem;
+}
+.lista_asimov{
+  list-style-type: square;
+  list-style-position: inside;
+  padding: 0;
+}
